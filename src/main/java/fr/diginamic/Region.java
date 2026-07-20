@@ -22,7 +22,4 @@ public class Region {
         return nom;
     }
 
-    public void setNom(String nom) {
-        this.nom = nom;
-    }
 }
